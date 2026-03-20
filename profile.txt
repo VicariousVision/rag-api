@@ -1,0 +1,11 @@
+My name is John.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a AI engineer.
+I'm especially interested in machine learning.
+
+I have experience with Python, AWS, Docker.
+I'm currently building projects to grow my hands-on skills.
+
+For fun, I enjoy hiking, playing guitar, reading sci-fi novels.
+A fun fact about me is  I once ran a marathon, I can solve a Rubik's cube in under a minute.
